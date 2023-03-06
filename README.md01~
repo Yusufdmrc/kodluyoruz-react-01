@@ -1,4 +1,4 @@
 The first assignment of Patika.dev's React Course
 
 In this project, I pulled data with axios.I defined an async function called getData and assigned a parameter named Number to specify the user id.
-
+At the end of this project, I reinforced the use of axios and async-await.
